@@ -12,6 +12,6 @@ The main goal is to choose get an approximation of the reference station data us
 In this homework I applied the Linear Regression.
 The sensors measure the o3, temperature and the humidity. The goal is to get the data of O3 in the air measured by the reference stations.
 
-## Homework 3 
+## Homework 4 
 In this homework I used two approaches: FNN (Feedforward Neural Network) and Bayesian multiple linear regression.
 The sensors measure the o3, temperature and the humidity. The goal is to get the data of O3 in the air measured by the reference stations.
